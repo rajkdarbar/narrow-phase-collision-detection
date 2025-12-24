@@ -1,6 +1,6 @@
 ## 🧩 Narrow-Phase Collision Detection (SAT & GJK)
 
-This project explores two widely used **narrow-phase collision detection** algorithms used in computer graphics and game engines.
+This project explores two widely used **narrow-phase collision detection** algorithms in computer graphics and game engines.
 
 #### ⚙️ Algorithms
 - **SAT / OBB (2D)** – Collision detection and penetration resolution for oriented 2D shapes using the **Separating Axis Theorem**.
