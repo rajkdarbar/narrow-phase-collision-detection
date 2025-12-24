@@ -45,5 +45,5 @@ This project explores two widely used narrow-phase collision detection algorithm
 ---
 
 ## 🎥 Demo Video
-A short walkthrough demonstrating the SAT (2D) and GJK (3D) collision detection in action is available [here](https://www.youtube.com/your-video-link).
+A short walkthrough demonstrating the SAT (2D) and GJK (3D) collision detection in action is available [here](https://youtu.be/NrKk_oyRyNc).
 
