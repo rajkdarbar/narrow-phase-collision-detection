@@ -23,10 +23,10 @@ This project explores two widely used **narrow-phase collision detection** algor
 
 #### SAT part
 <div align="left">
-  <img src="Assets/Resources/obb-sat.png" width="600">  
+  <img src="Assets/Resources/obb-sat.png" width="900">  
 </div>
 
 #### GJK part
 <div align="left">
-  <img src="Assets/Resources/gjk.png" width="600">  
+  <img src="Assets/Resources/gjk.png" width="900">  
 </div>
