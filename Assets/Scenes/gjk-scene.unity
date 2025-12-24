@@ -622,7 +622,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d6b99d1ec4ec66c4893e364296c99e97, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  shapeA: {fileID: 1017554874}
+  shapeA: {fileID: 1689079563}
   shapeB: {fileID: 288867658}
 --- !u!4 &1490914061
 Transform:
