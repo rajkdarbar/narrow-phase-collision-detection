@@ -1,6 +1,6 @@
 # 🧩 Narrow-Phase Collision Detection (SAT & GJK)
 
-This project explores two widely used narrow-phase collision detection algorithms in computer graphics and game engines.
+This project explores two widely used narrow-phase discrete collision detection algorithms in computer graphics and game engines.
 
 #### ⚙️ Algorithms
 - **SAT / OBB (2D)** – Collision detection and penetration resolution for oriented convex 2D shapes.  
@@ -8,7 +8,7 @@ This project explores two widely used narrow-phase collision detection algorithm
 - **GJK (3D)** – Collision detection between arbitrary convex 3D shapes.  
   *(Gilbert–Johnson–Keerthi algorithm)*
 
-#### 🧠 Design Notes
+#### ✨ Design Notes
 - SAT operates on oriented bounding boxes and convex polygons.
 - SAT does not scale well to 3D, making it impractical for complex scenes.
 - GJK is preferred in 3D due to better scalability for convex collision detection.
